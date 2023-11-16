@@ -16,7 +16,7 @@
 		}
 	],
 	"require": {
-		"rmccue/requests": "^2.0.1"
+		"rmccue/requests": "^2.0.5"
 	},
 	"config": {
 		"sort-packages": true,
